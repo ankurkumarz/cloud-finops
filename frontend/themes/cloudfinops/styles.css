@@ -1,0 +1,9 @@
+@import url('./main-layout.css');
+@import url('./views/card-list-view.css');
+@import url('./views/master-detail-view.css');
+@import url('./views/collaborative-master-detail-view.css');
+@import url('./views/person-form-view.css');
+@import url('./views/address-form-view.css');
+@import url('./views/gridwith-filters-view.css');
+@import url('./views/image-list-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
